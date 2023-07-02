@@ -1,0 +1,1 @@
+Template for start every project with a structure and tools, and finally ease the life of data scientists.
